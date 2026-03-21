@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://www.pinterest.com/pin/35677022045066159/" width="100%" alt="Cyberpunk City Animated Background" style="border-radius: 10px; box-shadow: 0 0 30px rgba(0, 255, 255, 0.5);">
+  <img src="https://i.pinimg.com/1200x/8d/90/98/8d90987af9e8b4dff950a0ac5f42357f.jpg" width="100%" alt="Cyberpunk City Animated Background" style="border-radius: 10px; box-shadow: 0 0 30px rgba(0, 255, 255, 0.5);">
   <br><br>
   <h1 style="color: #00ffff; text-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff; font-family: 'Courier New', monospace;">
-    Hi 👋, I'm Ojith Uddeeptha — YOU CAN CALL ME <span style="color: #ff00ff;">SPIDER</span> 🕷️🔥
+    Hi 👋, I'm Ojith Uddeeptha <span style="color: #ff00ff;"></span> 🕷️
   </h1>
   <p style="font-size: 1.3em; color: #00ff9d; text-shadow: 0 0 8px #00ff9d;">
     Cloud & AI Engineer Student | Data Annotator @ Innodata | Building the future with code
