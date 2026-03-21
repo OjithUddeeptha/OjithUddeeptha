@@ -1,32 +1,75 @@
-<h1 align="center">Hi 👋, I'm Ojith Uddeeptha</h1>
-<h3 align="center">I'm a Cloud & AI Engineer Student</h3>
+<div align="center">
+  <img src="https://www.pinterest.com/pin/35677022045066159/" width="100%" alt="Cyberpunk City Animated Background" style="border-radius: 10px; box-shadow: 0 0 30px rgba(0, 255, 255, 0.5);">
+  <br><br>
+  <h1 style="color: #00ffff; text-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff; font-family: 'Courier New', monospace;">
+    Hi 👋, I'm Ojith Uddeeptha — YOU CAN CALL ME <span style="color: #ff00ff;">SPIDER</span> 🕷️🔥
+  </h1>
+  <p style="font-size: 1.3em; color: #00ff9d; text-shadow: 0 0 8px #00ff9d;">
+    Cloud & AI Engineer Student | Data Annotator @ Innodata | Building the future with code
+  </p>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ojithuddeeptha&label=Profile%20views&color=0e75b6&style=flat" alt="ojithuddeeptha" /> </p>
+<div align="center" style="background: linear-gradient(135deg, #0f0f23, #1a0033); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 0 25px rgba(138, 43, 226, 0.4);">
+  <h2 style="color: #ff00aa; text-shadow: 0 0 15px #ff00aa;">Namaste 🙏 MasterJudah Vibes + Ojith Power</h2>
+  <p style="color: #e0e0ff;">Blending cyberpunk perfectionism, full-stack passion, AI/ML dreams, and cloud mastery.</p>
+</div>
 
-- 🔭 I’m currently working on **Innodata(Data Annotators)**
+<!-- About Section -->
+<h2 align="center" style="color: #00ffff; border-bottom: 3px solid #00ffff; display: inline-block; padding-bottom: 10px;">
+  🚀 About Me
+</h2>
 
-- 🌱 I’m currently learning **AWS,Azure,Go,flutter**
+<div align="center">
+  <ul style="list-style: none; padding: 0; font-size: 1.1em; color: #d4d4ff;">
+    <li>🌱 Currently working on <strong>Innodata (Data Annotators)</strong> — labeling the future of AI</li>
+    <li>🔥 Learning & Building with: AWS, Azure, Go, Flutter, Python, Node.js</li>
+    <li>💻 Ask me about Cloud Computing, AI/ML, Full-Stack, Automation</li>
+    <li>📫 Reach me: <a href="mailto:ojithgaminift@gmail.com" style="color: #00ff9d;">ojithgaminift@gmail.com</a></li>
+    <li>⚡ Fun fact: YOU CAN CALL ME <strong>SPIDER</strong> 🕸️</li>
+  </ul>
+</div>
 
-- 💬 Ask me about **Cloud Computing Thigs**
+<!-- Connect -->
+<h3 align="center" style="color: #ffcc00;">Connect with me:</h3>
+<div align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/your-ig" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://facebook.com/your-fb" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <!-- Add more as needed -->
+</div>
 
-- 📫 How to reach me **ojithgaminift@gmail.com**
+<!-- Languages & Tools -->
+<h2 align="center" style="color: #00ffff; margin-top: 40px;">🛠️ Languages and Tools I've Placed My Hands On</h2>
+<div align="center" style="background: #0d001a; padding: 20px; border-radius: 15px; box-shadow: 0 0 20px #00ffff33;">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <!-- Add more from your icons: .NET, MongoDB, MySQL, PHP, JS, HTML/CSS, etc. -->
+</div>
 
-- ⚡ Fun fact **YOU CAN CALL ME SPIDER**
+<!-- GitHub Stats -->
+<h2 align="center" style="color: #ff00ff; margin-top: 40px;">📊 GitHub Stats (Ojith + Judah Fusion)</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0f0f23&title_color=00ffff&icon_color=ff00ff&text_color=00ff9d" alt="GitHub Stats"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=1a0033&title_color=ff00aa&text_color=d4d4ff" alt="Top Languages"/>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ojith uddeeptha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ojith uddeeptha" height="30" width="40" /></a>
-<a href="https://fb.com/ojith uddeeptha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ojith uddeeptha" height="30" width="40" /></a>
-<a href="https://instagram.com/_p_e_t_e_r.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_p_e_t_e_r.__" height="30" width="40" /></a>
-<a href="https://www.behance.net/og studio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="og studio" height="30" width="40" /></a>
-</p>
+<!-- Pinned Repos / Contribution -->
+<h2 align="center" style="color: #00ff9d; margin-top: 40px;">🔥 Pinned Projects & Activity</h2>
+<!-- GitHub will auto-show your pinned repos below if you pin them in your profile -->
+<!-- Or manually link important ones like Wall-D Desk, Modal-PopUp, Preview, etc. -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<div align="center" style="margin-top: 30px; color: #aaaaff;">
+  <p>Contributions blending HTML/CSS perfection, Python AI scripts, cloud deployments, and more...</p>
+  <!-- Your contribution graph shows automatically on profile -->
+</div>
 
-<h3 align="left">Other Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ojithuddeeptha&show_icons=true&locale=en&layout=compact" alt="ojithuddeeptha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ojithuddeeptha&show_icons=true&locale=en" alt="ojithuddeeptha" /></p>
+<div align="center" style="margin: 50px 0; font-size: 0.9em; color: #8888ff;">
+  <p>Embracing the beauty around us ✨ | Inspired by neon nights & code perfection</p>
+</div>
