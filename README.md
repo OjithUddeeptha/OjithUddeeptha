@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ojithgaminift@gmail.com**
 
-- ⚡ Fun fact **SPIDER**
+- ⚡ Fun fact **YOU CAN CALL ME SPIDER**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
