@@ -64,7 +64,7 @@
 </div>
 
 <!-- GitHub Stats -->
-<h2 align="center" style="color: #ff00ff; margin-top: 40px;">📊 GitHub Stats (Ojith + Judah Fusion)</h2>
+<h2 align="center" style="color: #ff00ff; margin-top: 40px;">📊 GitHub Stats (Ojith)</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0f0f23&title_color=00ffff&icon_color=ff00ff&text_color=00ff9d" alt="GitHub Stats"/>
   <br><br>
