@@ -21,7 +21,7 @@
 </div>
 
 <div align="center" style="background: linear-gradient(135deg, #0f0f23, #1a0033); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 0 25px rgba(138, 43, 226, 0.4);">
-  <h2 style="color: #ff00aa; text-shadow: 0 0 15px #ff00aa;">Namaste 🙏 MasterJudah Vibes + Ojith Power</h2>
+  <h2 style="color: #ff00aa; text-shadow: 0 0 15px #ff00aa;">Ojith Power</h2>
   <p style="color: #e0e0ff;">Blending cyberpunk perfectionism, full-stack passion, AI/ML dreams, and cloud mastery.</p>
 </div>
 
